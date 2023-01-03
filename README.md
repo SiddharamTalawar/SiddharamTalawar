@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddharamTalawar
-- 👀 I’m interested in fullstack web devloping
-- 🌱 I’m currently learning python,mysql,Html
+- 👀 I’m interested in python web devloping
+- 🌱 I’m currently learning python,django,mysql,Html
 - 💞️ I’m looking to collaborate on projects which are beginner friendly
 - 📫 How to reach me Email:siddharamtalawar10@gmail.com
 
