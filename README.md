@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiddharamTalawar.
-- 👀 I’m interested in django web devloping.
-- 🌱I know how to work with  python,django, Django rest framework, JavaScript, CSS, mysql,Html.
-- 💞️ I’m looking to collaborate on django, Django rest framework projects 
+- 👀 I’m interested in django + React web devloping.
+- 🌱I know how to work with  python,django, Django rest framework, React, JavaScript, CSS, Tailwind, Html mysql.
+- 💞️ I’m looking to collaborate on django, Django rest framework, React projects 
 - 📫 How to reach me Email:siddhu.dev822@gmail.com
 
 <!---
